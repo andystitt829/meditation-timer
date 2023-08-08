@@ -1,6 +1,8 @@
 const Tips: React.FC = () => {
     return (
         <>
+            <h1>Tips</h1>
+
             <h2>Using the Timers</h2>
 
             <p>The meditation timers allow you to have meditation sessions for two, five, and ten minutes at a time.</p>

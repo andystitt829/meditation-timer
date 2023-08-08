@@ -2,7 +2,6 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/rea
 import TwoMinuteTimerComponent from '../components/TwoMinuteTimer';
 import FiveMinuteTimerComponent from '../components/FiveMinuteTimer';
 import TenMinuteTimerComponent from '../components/TenMinuteTimer';
-import './Tab1.css';
 
 const Tab1: React.FC = () => {
   return (
