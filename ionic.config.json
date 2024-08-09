@@ -1,0 +1,8 @@
+{
+  "name": "Meditation Timer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "cea47133"
+}
